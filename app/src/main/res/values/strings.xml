@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ForSH</string>
+
+
+    <!-- Bottom Navigation -->
+    <string name="home">홈</string>
+    <string name="my_page">마이페이지</string>
+    <string name="search">검색</string>
+
+    <!-- Home -->
+
+
+    <!-- My Page -->
+
+
+    <!-- Search -->
+</resources>
